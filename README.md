@@ -4,13 +4,14 @@ This is a Weather Forecast web application created using HTML, CSS, JavaScript, 
 
 Features
 
-Real-time Weather Data: Fetches current weather information using external APIs.
+1) Real-time Weather Data: Fetches current weather information using external APIs.
 
-Search by Location: Users can search for weather data by city name.
+2) Search by Location: Users can search for weather data by city name.
 
-Responsive Design: The application is designed to work seamlessly on various devices, including desktops, tablets, and mobile phones.
+3) Responsive Design: The application is designed to work seamlessly on various devices, including desktops, tablets, and mobile phones.
 
-Interactive UI: Provides an intuitive and interactive user interface for an enhanced user experience.
+4) Interactive UI: Provides an intuitive and interactive user interface for an enhanced user experience.
+
 
 Technologies Used
 
